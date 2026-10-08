@@ -54,4 +54,5 @@ Before we begin, open your preferred environment and log into your **GitHub acco
 Follow the files in chronological order:
 * [00 - Shell Reminder](./00-shell-reminder.md) 💡 *Read this if you get stuck in a terminal text editor!*
 * [01 - Git Basics](./01-git-basic.md) 🥚 *Configuration, staging, committing, and logs.*
-* [02 - Advanced Git & Conflicts](./02-git-advanced.md) 🦅 *Branches, manual merging, and resolving conflicts via CLI.*
+* [02 - Advanced Git & Conflicts](./02-git-advanced.md) 🦅 *Branches, manual merging, and resolving conflicts via CLI.*Mi primera practica de Git local
+Linea extra para probar amend
