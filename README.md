@@ -1,4 +1,4 @@
-# Git Hands-on Workshop: Mastering the CLI 🚀
+# Git Workshop: Mastering the Command Line Interface (CLI)
 
 Welcome to the practical guide for this Git workshop. During this session, we will abandon graphical interfaces (GUIs) and embrace the power of the **Command-Line Interface (CLI)**.
 
