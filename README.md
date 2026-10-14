@@ -59,3 +59,6 @@ Linea extra para probar amend
 
 > Nota: Esta línea la añadió una compañera trabajando en remoto.
 > > Otra prueba desde la web de GitHub.
+## Pro Git Tips
+* Always write short, descriptive commit messages.
+* Use `git status` before every single command.
